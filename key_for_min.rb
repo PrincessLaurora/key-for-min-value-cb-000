@@ -8,3 +8,4 @@ name_hash.each do |key, value|
     return key["smallest_value"]
 end
 end
+end
